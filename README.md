@@ -347,3 +347,12 @@ Access the database browser at **http://localhost:8080/h2-console**
 | JDBC URL | `jdbc:h2:mem:financedb`  |
 | Username | `sa`                     |
 | Password | *(leave empty)*          |
+<<<<<<< HEAD
+
+---
+
+## License
+
+© 2026 Abdul Sami. All rights reserved.
+=======
+
