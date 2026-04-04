@@ -351,6 +351,17 @@ Access the database browser at **http://localhost:8080/h2-console**
 
 ---
 
+## Live Demo
+
+| | URL |
+|---|---|
+| Frontend | https://zero-savings-com.vercel.app |
+| Backend API | https://zerosavings-api-production-3e3e.up.railway.app |
+
+> ⚠️ Backend is hosted on Railway free tier — first request may take ~1 min to wake up.
+
+---
+
 ## License
 
 © 2026 Abdul Sami. All rights reserved.
