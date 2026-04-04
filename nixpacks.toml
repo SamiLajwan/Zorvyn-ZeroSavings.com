@@ -1,5 +1,7 @@
-[providers]
-java = "21"
+providers = ["java"]
+
+[variables]
+NIXPACKS_JDK_VERSION = "21"
 
 [build]
 cmds = ["cd backend && curl -o maven.tar.gz https://archive.apache.org/dist/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.tar.gz && tar -xzf maven.tar.gz && ./apache-maven-3.9.6/bin/mvn clean package -DskipTests"]
