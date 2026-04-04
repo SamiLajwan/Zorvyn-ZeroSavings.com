@@ -1,4 +1,7 @@
-[phases.build]
+[providers]
+java = "21"
+
+[build]
 cmds = ["mvn clean package -DskipTests"]
 
 [start]
